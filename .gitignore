@@ -1,2 +1,5 @@
 # Removing Target files
 target/
+.classpath
+.project
+.settings/
