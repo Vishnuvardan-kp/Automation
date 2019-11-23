@@ -10,6 +10,6 @@ public class AppTest
 	@Test
     public void testApp()
     {
-    	System.out.println("Hello World");
+    	System.out.println("Hello *** Worl$$$ding");
     }
 }
